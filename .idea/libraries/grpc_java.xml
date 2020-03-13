@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="grpc-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/grpc-stub-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/grpc-protobuf-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/grpc-netty-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/grpc-core-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/protobuf-java-3.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/netty-all-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/grpc-services-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/grpc-context-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/grpc-protobuf-lite-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
